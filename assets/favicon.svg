@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="fgrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B3D0B" />
+      <stop offset="100%" stop-color="#1f5a1f" />
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="url(#fgrad)" />
+  <path
+    d="M14 24c0-6.627 5.373-12 12-12h6"
+    stroke="#D4AF37"
+    stroke-width="4"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <path
+    d="M18 28c2.2 3.2 4.9 4.8 8 4.8 4.418 0 8-3.582 8-8s-3.582-8-8-8c-3.32 0-6.22 2.005-7.5 4.98"
+    stroke="#ffffff"
+    stroke-width="4"
+    stroke-linecap="round"
+    fill="none"
+  />
+</svg>
+
