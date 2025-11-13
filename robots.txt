@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://civizen.com/sitemap.xml
+
